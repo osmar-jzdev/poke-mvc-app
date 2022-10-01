@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A82C24D1-17A1-43A1-A3AF-909565870DCB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExampleMVC/View/PokeCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PokeCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3 - 8c14a8ed6ba1f667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMVC.PokeCell.pokeImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ExampleMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osmarjrz/Documents/Diplomado/Mod4/ExampleMVC/ExampleMVC/View/PokeCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3 - 694d5ccedbf8a73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMVC.PokeCell.pokeImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ExampleMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osmarjrz/Documents/Diplomado/Mod4/ExampleMVC/ExampleMVC/View/PokeCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3 - 48753d99c2e90760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMVC.PokeCell.pokeImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ExampleMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osmarjrz/Documents/Diplomado/Mod4/ExampleMVC/ExampleMVC/View/PokeCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3 - 7df94162e39d4edb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMVC.PokeCell.pokeImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ExampleMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osmarjrz/Documents/Diplomado/Mod4/ExampleMVC/ExampleMVC/View/PokeCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3 - 99dfa741cd3d8c38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMVC.PokeCell.init(frame: __C.CGRect) -&gt; ExampleMVC.PokeCell"
+                  moduleName = "ExampleMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osmarjrz/Documents/Diplomado/Mod4/ExampleMVC/ExampleMVC/View/PokeCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "08A48BF0-CFF1-4968-B533-F9395E0901E3 - 1ed3e438e3c78744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExampleMVC.PokeCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ExampleMVC.PokeCell&gt;"
+                  moduleName = "ExampleMVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osmarjrz/Documents/Diplomado/Mod4/ExampleMVC/ExampleMVC/View/PokeCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
